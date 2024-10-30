@@ -1,0 +1,2 @@
+Test insert
+- No text editing outside of insert mode :(
